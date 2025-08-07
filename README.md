@@ -1,6 +1,6 @@
 # Tech News HTML
 
-![](./nueva-version.png)
+![](./nueva-version.jpg)
 
 # Recomendations
 
